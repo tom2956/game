@@ -1,0 +1,10 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: monospace;
+    color: darkgrey;
+}
